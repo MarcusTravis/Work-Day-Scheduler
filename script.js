@@ -30,47 +30,47 @@ $('button').on('click', function () {
 
   switch (moment().format('h')) {
     case '9':
-      $('#9a').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#9a').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#9a').children('textarea').css('background-color', 'darkRed');
       $('#9a').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '10':
-      $('#10a').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#10a').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#10a').children('textarea').css('background-color', 'darkRed');
       $('#10a').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '11':
-      $('#11a').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#11a').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#11a').children('textarea').css('background-color', 'darkRed');
       $('#11a').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '12':
-      $('#12p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#12p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#12p').children('textarea').css('background-color', 'darkRed');
       $('#12p').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '1':
-      $('#1p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#1p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#1p').children('textarea').css('background-color', 'darkRed');
       $('#1p').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '2':
-      $('#2p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#2p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#2p').children('textarea').css('background-color', 'darkRed');
       $('#2p').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '3':
-      $('#3p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#3p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#3p').children('textarea').css('background-color', 'darkRed');
       $('#3p').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '4':
-      $('#4p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#4p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#4p').children('textarea').css('background-color', 'darkRed');
       $('#4p').nextAll().children('textarea').css('background-color', 'black');
       break;
     case '5':
-      $('#5p').prevAll().children('textarea').css('background-color', 'darkBlue');
+      $('#5p').prevAll().children('textarea').css('background-color', 'darkslateblue');
       $('#5p').children('textarea').css('background-color', 'darkRed');
       $('#5p').nextAll().children('textarea').css('background-color', 'black');
       break;
