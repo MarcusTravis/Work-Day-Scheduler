@@ -80,10 +80,12 @@ textarea{
 .col-9 {
   border: solid black;
   border-radius: 15px;
+  margin-bottom: .5rem;
 }
 
 .col-1 {
   border-radius: 15px;
+  margin-bottom: .5rem;
 }
 
 .h2 {
